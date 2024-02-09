@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+   width:80%;
+   align-items: center;
+   justify-content: space-between;
+
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+   
+}
+.logocolor{
+    display: flex;
+   
+   
+
+}
+.coloritems{
+  
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin:0.1rem;
+
+}
+.color1{
+    background-color: grey;
+    
+}
+.color2{
+    background-color: rgb(110, 109, 109);
+
+}
+.color3{
+    background-color: rgb(91, 90, 90);
+
+}
+.color4{
+    background-color: rgb(201, 199, 199);
+
+}
+.items{
+    text-decoration: none;
+    list-style: none;
+    padding:1rem;
+
+}
+.navbar{
+    display: flex;
+  
+}
