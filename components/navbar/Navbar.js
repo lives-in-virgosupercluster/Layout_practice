@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from "./Navbar.module.css";
-import Link from 'next/link';
+
 
 export const Navbar = () => {
   return (
